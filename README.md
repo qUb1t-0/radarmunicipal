@@ -1,8 +1,8 @@
 # Radar Municipal
 
-Painel local de prospecção de demandas municipais de mobiliário publicadas no PCA/PNCP. Uso individual, Windows, Python 3.12, Flask e SQLite, sem serviços pagos.
+Painel local de prospecção de demandas municipais de mobiliário publicadas no PCA/PNCP. Uso individual, usando linguagens como: Python 3.12, Flask e SQLite, sem serviços pagos.
 
-**Acesso:** abra `http://127.0.0.1:8765/` diretamente no Edge ou Chrome. As tarefas Windows iniciam painel e coleta; é necessário manter a sessão do usuário conectada.
+**Acesso:** abra `http://127.0.0.1:8765/`. As tarefas Windows iniciam painel e coleta; é necessário manter a sessão do usuário conectada.
 
 ```powershell
 # Abrir/iniciar o painel
